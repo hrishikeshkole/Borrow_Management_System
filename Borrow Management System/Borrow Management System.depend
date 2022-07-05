@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1604500207 source:c:\users\abhishek mane\desktop\borrow management system\main.c
+	"BMS.h"
+	"Login_Module.h"
+	"Add_User.h"
+	"Installment_Module.h"
+	"Total_Module.h"
+	"View_Dues_Module.h"
+	"Nill_Account_Module.h"
+	"Display_Module.h"
+	<stdlib.h>
+
+1603379747 c:\users\abhishek mane\desktop\borrow management system\bm_operations.h
+	<stdio.h>
+	<stdlib.h>
+
+1604240219 c:\users\abhishek mane\desktop\borrow management system\login_module.h
+	<stdio.h>
+	<string.h>
+
+1604246875 c:\users\abhishek mane\desktop\borrow management system\bms.h
+	<stdio.h>
+	<stdlib.h>
+
+1604248756 c:\users\abhishek mane\desktop\borrow management system\add_user.h
+
+1604248310 c:\users\abhishek mane\desktop\borrow management system\display_module.h
+
+1604394244 c:\users\abhishek mane\desktop\borrow management system\installment_module.h
+
+1604248333 c:\users\abhishek mane\desktop\borrow management system\total_module.h
+
+1604248323 c:\users\abhishek mane\desktop\borrow management system\view_dues_module.h
+
+1604249580 c:\users\abhishek mane\desktop\borrow management system\nill_account_module.h
+
+1604568916 source:c:\users\abhishek mane\desktop\desktop\borrow management system\main.c
+	"BMS.h"
+	"Login_Module.h"
+	"Add_User.h"
+	"Installment_Module.h"
+	"Total_Module.h"
+	"View_Dues_Module.h"
+	"Nill_Account_Module.h"
+	"Display_Module.h"
+	<stdlib.h>
+
+1604246875 c:\users\abhishek mane\desktop\desktop\borrow management system\bms.h
+	<stdio.h>
+	<stdlib.h>
+
+1604240219 c:\users\abhishek mane\desktop\desktop\borrow management system\login_module.h
+	<stdio.h>
+	<string.h>
+
+1604248756 c:\users\abhishek mane\desktop\desktop\borrow management system\add_user.h
+
+1604394244 c:\users\abhishek mane\desktop\desktop\borrow management system\installment_module.h
+
+1604248333 c:\users\abhishek mane\desktop\desktop\borrow management system\total_module.h
+
+1604248323 c:\users\abhishek mane\desktop\desktop\borrow management system\view_dues_module.h
+
+1604249580 c:\users\abhishek mane\desktop\desktop\borrow management system\nill_account_module.h
+
+1604248310 c:\users\abhishek mane\desktop\desktop\borrow management system\display_module.h
+
